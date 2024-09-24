@@ -1,5 +1,5 @@
-﻿using ScreenSoundWeb.Banco;
-using ScreenSoundWeb.Modelos;
+﻿using ScreenSound.Modelos;
+using ScreenSoundWeb.Banco;
 using System;
 using System.Collections.Generic;
 using System.Linq;

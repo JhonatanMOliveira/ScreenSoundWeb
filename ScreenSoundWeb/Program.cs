@@ -1,6 +1,6 @@
 ﻿using ScreenSoundWeb.Menus;
-using ScreenSoundWeb.Modelos;
 using ScreenSoundWeb.Banco;
+using ScreenSound.Modelos;
 
 var context = new ScreenSoundContext();
 var artistaDAL = new DAL<Artista>(context);
